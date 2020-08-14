@@ -2896,7 +2896,7 @@
 
 		.wrapper.style1 {
 			background-color: #fafafa;
-			color: #999999;
+			color: #5a5a5a;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
@@ -3426,7 +3426,7 @@
 		}
 
 			#header > .logo a {
-				font-size: 1.25em;
+				font-size: 1.50em;
 				color: #3498db;
 			}
 
@@ -3435,8 +3435,6 @@
 				}
 
 			#header > .logo span {
-				font-weight: 300;
-				font-size: .8em;
 				color: #FFF;
 			}
 
@@ -3705,7 +3703,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner.jpg");
+		background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/banner.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
